@@ -4,7 +4,8 @@
 
 ### Wireframe(s)
 ---
-![Image]()
+#### Home page
+![Image](/codecademy_reddit_project/reddit_favs_project_wireframe.jpg)
 ### Technologies Used
 ---
 
